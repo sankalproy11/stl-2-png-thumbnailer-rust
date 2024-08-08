@@ -1,0 +1,14 @@
+{
+  "name": "stl-to-png",
+  "version": "0.1.0",
+  "description": "A simple stl to png thumnailer written in rust.",
+  "main": "lib/index.js",
+  "author": "sankalproy11 <sankalproy.dev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.10.1"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
